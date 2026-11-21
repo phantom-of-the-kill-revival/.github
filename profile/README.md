@@ -1,4 +1,4 @@
-![Phantom of the Kill Revival Project](revival-banner.webp)
+![Phantom of the Kill Revival Project](revival-banner.gif)
 
 
 # Phantom of the Kill Revival Project
