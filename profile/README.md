@@ -1,6 +1,6 @@
 ![Phantom of the Kill Revival Project](revival-banner.gif)
 
-<h1 align="center">Phantom of the Kill — Revival Project</h1>
+<p align="center"><img src="readme-title.png" alt="Phantom of the Kill — Revival Project" width="900" /></p>
 <p align="center"><i>The game ended. The party didn't.</i></p>
 
 <p align="center">
