@@ -1,50 +1,60 @@
 ![Phantom of the Kill Revival Project](revival-banner.gif)
 
+<h1 align="center">Phantom of the Kill — Revival Project</h1>
+<p align="center"><i>The game ended. The party didn't.</i></p>
 
-# Phantom of the Kill Revival Project
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Revival_in_Progress-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Server-Rebuilding-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Episodes-Nightly_10PM_CT-purple?style=for-the-badge" />
+  <a href="https://discord.gg/r7ukGMF6eB"><img src="https://img.shields.io/badge/Discord-Join_Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
+---
 
-> The game ended. The party didn't. We're bringing Phantom of the Kill back — server, community, and a new episode every night.
+### 🎮 The Revival
 
+We're rebuilding the game server so the original game runs again.
 
-## The revival
-
-
-We're rebuilding the game server so the original game runs again. Where we stand:
-
-
+**✅ Working Now:**
 - Story quest works end to end
 - Units and gear can merge and be viewed
 - The shop works
 - iOS test build shared with the team
-- Next up: player level-up, then gacha
 
+**🔜 Next Up:**
+- Player level-up
+- Then gacha
 
-## The anime
+### 🎬 The Anime
 
+**Freikugel: The Seventh Bullet** — a new five-minute silent episode every night at 10 PM CT, with fansub subtitles and signing.
 
-**Freikugel: The Seventh Bullet** — a new five-minute silent episode every night at 10 PM CT, with fansub subtitles and signing. Frei, her Master, and the Killer Princesses repair the memories of a dead game, one night at a time.
+Frei, her Master, and the Killer Princesses repair the memories of a dead game, one night at a time.
 
+> New episodes drop nightly in **#showcase** on Discord.
 
-## The team
+### 👥 The Team
 
+| Role | Member |
+| :--- | :--- |
+| **Project Lead** | MasqueradeFer |
+| **Game Server** | dedicatus |
+| **Game Data & Summon UI** | hirotokagami |
+| **Viewer & Archive** | cilantro07 |
 
-- **MasqueradeFer** — Project Lead
-- **dedicatus** — game server
-- **hirotokagami** — game data & summon UI
-- **cilantro07** — viewer & archive
+### 📦 Repositories
 
+| Repo | What It Is |
+| :--- | :--- |
+| [**downloads**](https://github.com/phantom-of-the-kill-revival/downloads) | Game builds, server files, tools & the full Discord download catalog (live) |
+| `server` | The revival game server (coming soon) |
+| `game-data` | Quest tables, summon costs & UI (coming soon) |
 
-## Join us
+### 💬 Join Us
 
+**Discord:** https://discord.gg/r7ukGMF6eB
 
-- Discord: https://discord.gg/r7ukGMF6eB
-- New episodes drop nightly in #showcase
+---
 
-
-## Repositories
-
-- [`downloads`](https://github.com/phantom-of-the-kill-revival/downloads) — game builds, server files, tools & the full Discord download catalog (live)
-- `server` — the revival game server (coming soon)
-- `game-data` — quest tables, summon costs & UI (coming soon)
-
+<p align="center"><i>We're bringing Phantom of the Kill back — server, community, and a new episode every night.</i></p>
