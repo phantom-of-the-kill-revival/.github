@@ -1,3 +1,5 @@
+![Phantom of the Kill Revival Project](revival-banner.webp)
+
 # Phantom of the Kill Revival Project
 
 > The game ended. The party didn't. We're bringing Phantom of the Kill back — server, community, and a new episode every night.
