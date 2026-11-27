@@ -20,17 +20,17 @@ We're rebuilding the game server so the original game runs again.
 - Story quest works end to end
 - Units and gear can merge and be viewed
 - The shop works
-- iOS test build shared with the team
+- iOS and Android test builds shared with the team
+- Gacha screen live in the beta build
 
 **🔜 Next Up:**
 - Player level-up
-- Then gacha
 
 ### 🎬 The Anime
 
-**Freikugel: The Seventh Bullet** — a new five-minute silent episode every night at 10 PM CT, with fansub subtitles and signing.
-
+**Freikugel: The Seventh Bullet** — a new seven-minute silent episode every night at 10 PM CT, with fansub subtitles and signing.
 Frei, her Master, and the Killer Princesses repair the memories of a dead game, one night at a time.
+Latest: Episode 10, 'The Seventh Night,' released November 26, 2026.
 
 > New episodes drop nightly in **#showcase** on Discord.
 
